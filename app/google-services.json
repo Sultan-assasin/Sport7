@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861101324832",
+    "project_id": "exsport7-a68d9",
+    "storage_bucket": "exsport7-a68d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861101324832:android:0fccfa12600f23fa8c1a45",
+        "android_client_info": {
+          "package_name": "com.sula.sport7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861101324832-g7nn3kinp82g2okdibujlj56q601vqlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0I6LJrYkFSeVJ2CPILRN6YFz9aiN4oa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861101324832-g7nn3kinp82g2okdibujlj56q601vqlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
